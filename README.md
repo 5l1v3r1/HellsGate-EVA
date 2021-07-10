@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/66519611/125164686-25c8da80-e19c-11eb-
 
 
 
-# The source code is for not public 
+# The source code is not public 
 # Are you intrested tho ?
 
 <a href="https://twitter.com/ORCA6665"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="5.5%"/> 
