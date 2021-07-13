@@ -1,5 +1,6 @@
-# HellsGate-&&-EVA
-# My Implementation of  HellsGate Using EVA
+<h1 align="center">  <em><strong>HellsGate && EVA</strong></em>   </h1>   
+
+
 
 
 
@@ -7,19 +8,14 @@
 https://user-images.githubusercontent.com/66519611/125164686-25c8da80-e19c-11eb-8540-0bcbcac00bbf.mp4
 
 
+  <p align="center"><img src="https://user-images.githubusercontent.com/66519611/125164671-15b0fb00-e19c-11eb-9ad3-124502517031.png" /> </p> 
 
 
-![HellsGate](https://user-images.githubusercontent.com/66519611/125164671-15b0fb00-e19c-11eb-9ad3-124502517031.png)
 
 
 
-# The source code is not public, Are you intrested tho ?
-
-<a href="https://twitter.com/ORCA6665"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="5.5%"/> 
-  
-**********************************************************************************************************************************************************
- 
- # My Empty Ethereum Wallet : 0x1B4944030818392D76672f583884F4A125A4415e
+# The source code is not public, If u are really intrested in getting the code, ill be selling it for 50$ as Ethereum
+# CONTACT ME AT : <a href="https://twitter.com/ORCA6665"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="5.5%"/> <a href="mailto:chickensarehealthy666@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5.5%"/> </a>
 
 **********************************************************************************************************************************************************
 
