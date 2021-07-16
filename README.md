@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/66519611/125164686-25c8da80-e19c-11eb-
 
 
 
-# The source code is not public, If u are really intrested in getting the code, ill be selling it for 50$ as Ethereum
+# The source code is not public, If u are really intrested in getting the code, ill be selling it for 50$ as Ethereum / Bitcoin
 # CONTACT ME AT : <a href="https://twitter.com/ORCA6665"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="5.5%"/> <a href="mailto:chickensarehealthy666@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5.5%"/> </a>
 
 **********************************************************************************************************************************************************
